@@ -9,3 +9,5 @@ desktop.ini
 # Local Screenshots & Logs
 screenshots/
 *.log
+
+.vercel
